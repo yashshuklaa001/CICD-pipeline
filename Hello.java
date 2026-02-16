@@ -4,5 +4,6 @@ class Hello{
         System.out.println("Welcome to Java programming.");
         System.out.println("Let's learn Jenkins together!");
         System.out.println("CI/CD pipelines are essential for modern software development.");
+        System.out.println("This is a new line added to test the pipeline.");
     }
 }
